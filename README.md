@@ -1,2 +1,2 @@
 # log4j-file-and-console
-log4j configuration for logging both in console and file with one file per day
+Log4j (v. 2.12.4) configuration for logging both in console and file with rolling configuration, one file per day with fixed size.
